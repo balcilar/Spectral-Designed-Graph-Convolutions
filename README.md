@@ -1,5 +1,7 @@
 # Spectral Designed Graph Convolutions
-Codes for "Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks" paper
+
+Codes of "Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks" paper.
+
 
 
 ## Requirements
