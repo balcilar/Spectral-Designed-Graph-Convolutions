@@ -27,7 +27,7 @@ These libraries versions are not stricly needed. But these are the configuration
 
 ## Results
 
-![Sample image](logs/resul.jpg?raw=true "Title")
+![Sample image](logs/result.jpg?raw=true "Title")
 
 ## Citation
 
