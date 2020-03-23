@@ -24,7 +24,10 @@ These libraries versions are not stricly needed. But these are the configuration
 	python protein_nodelabel.py
 	python enzymes_nodelabel.py
 	python enzymes_allfeats.py
-	
+
+## Results
+
+![Sample image](logs/resul.jpg?raw=true "Title")
 
 ## Citation
 
