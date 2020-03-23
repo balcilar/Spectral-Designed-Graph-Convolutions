@@ -12,6 +12,17 @@ These libraries versions are not stricly needed. But these are the configuration
 - matplotlib==3.1.2
 - pickle==4.0
 
+## Usage
+### Transductive Setting Problems
+	python cora_multirun.py
+	python citeseer_multirun.py
+	python pubmed_multirun.py
+### Inductive Setting Problems
+	python ppi_singlerun.py
+	python protein_nodelabel.py
+	python enzymes_nodelabel.py
+	python enzymes_allfeats.py
+	
 
 ## Citation
 Please cite this paper if you want to use it in your work,
