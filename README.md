@@ -15,6 +15,8 @@ These libraries versions are not stricly needed. But these are the configuration
 - pickle==4.0
 
 ## Usage
+Run the scripts directly. All parameters are defined in corresponding script. In Pubmed and PPI dataset, since the eigen decomposition takes quite a long time because of the dimension of given graph, we write the eigenvectors into file in first run. For later run, the code directly read already calculated eigenvectors from file.
+
 ### Transductive Setting Problems
 	python cora_multirun.py
 	python citeseer_multirun.py
