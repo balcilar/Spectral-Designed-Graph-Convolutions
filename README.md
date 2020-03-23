@@ -2,6 +2,14 @@
 Codes for "Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks" paper
 
 
+## Requirements
+These libraries versions are not stricly needed. But these are the configurations in our test machine.
+- Python==3.6.5
+- tensorflow-gpu==1.15.0
+- networkx==2.4
+- scipy==1.3.1
+- matplotlib==3.1.2
+
 
 ## Citation
 Please cite this paper if you want to use it in your work,
