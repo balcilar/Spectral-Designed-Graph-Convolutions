@@ -34,11 +34,14 @@ Run the scripts directly. All parameters are defined in corresponding script. In
 
 Please cite this paper if you want to use it in your work,
 
-	@article{spatialspectralgap,
+	@article{balcilar2020bridging,
 	  title={Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks},
 	  author={Balcilar,Muhammet  and Renton, Guillaume and H\'eroux,Pierre and Ga\"uz\`ere,Benoit and Adam, S\'ebastien and Honeine,Paul},
-	  journal={arXiv preprint arXiv:xxxx.xxxxx},
-	  year={2020}
+	  journal={arXiv preprint arXiv:2003.11702},
+	  year={2020},
+          eprint={2003.11702},
+          archivePrefix={arXiv},
+          primaryClass={cs.LG}
 	}
 
   
