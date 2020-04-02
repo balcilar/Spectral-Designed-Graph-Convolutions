@@ -12,8 +12,6 @@
 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-the-gap-between-spectral-and-spatial/node-classification-on-ppi)](https://paperswithcode.com/sota/node-classification-on-ppi?p=bridging-the-gap-between-spectral-and-spatial)
-
-
 # Spectral Designed Graph Convolutions
 
 Codes of ["Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks"](https://arxiv.org/abs/2003.11702) paper.
