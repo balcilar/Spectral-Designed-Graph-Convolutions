@@ -1,3 +1,9 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-the-gap-between-spectral-and-spatial/node-classification-on-cora-fixed-20-node-per)](https://paperswithcode.com/sota/node-classification-on-cora-fixed-20-node-per?p=bridging-the-gap-between-spectral-and-spatial)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-the-gap-between-spectral-and-spatial/node-classification-on-pubmed-with-public)](https://paperswithcode.com/sota/node-classification-on-pubmed-with-public?p=bridging-the-gap-between-spectral-and-spatial)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-the-gap-between-spectral-and-spatial/node-classification-on-citeseer-with-public)](https://paperswithcode.com/sota/node-classification-on-citeseer-with-public?p=bridging-the-gap-between-spectral-and-spatial)
+
 # Spectral Designed Graph Convolutions
 
 Codes of ["Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks"](https://arxiv.org/abs/2003.11702) paper.
