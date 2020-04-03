@@ -17,6 +17,12 @@
 Codes of ["Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks"](https://arxiv.org/abs/2003.11702) paper.
 
 
+<p align="center">
+  <img src="logs/depthwise_layer.png" width="350"/>  
+  <img src="logs/ourscorafreq.png" width="350"/>  
+</p>
+
+
 ## Requirements
 These libraries versions are not stricly needed. But these are the configurations in our test machine.
 - Python==3.6.5
